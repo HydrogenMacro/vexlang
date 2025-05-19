@@ -1,0 +1,84 @@
+fn main() {
+	let a: Num = 1
+	let b: A = A()
+	let c: String =
+		"""hi {price}""" + r"
+		| abc\n\
+		| defg\
+		| hijkl\
+		"
+	let a = [
+		12
+	].012
+	a += 1
+	<abc as Trait>.u += 1
+	a.<Trait::u> += 1
+}
+
+class A<T, U> {
+	a = 1
+	impl Trait {
+		b: abc = 2
+		
+	}
+	static fn new() {
+
+	}
+	fn new() {
+
+	}
+	impl Add<Num> {
+		a: 1;
+		add(a, b) {
+			a + b
+		}
+	}
+}
+impl A {
+
+}
+
+fn join(b: A, a: Array<Any>) {
+
+}
+
+impl Trait<T> for A {
+
+}
+enum Int {
+	Zero {
+		val: int = 0
+	},
+	One as One,
+	Two,
+	enum Three {
+		Four,
+		Five
+	}
+}
+impl Int::Two {
+	add() {}
+}
+
+fn g(a: Int) {
+	match a {
+		One => {
+			a = Int::One
+		}
+		Two => abc
+		_ => panic "abc"
+	}
+}
+fn abc() {
+	let d = 1;
+	d += 5;
+}
+
+
+impl Int {
+	
+}
+trait Add<T> {
+	abc: T;
+	add(a: T, b: T);
+}
